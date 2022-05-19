@@ -13,6 +13,10 @@
 
 - [NightOps - Everon 1985](https://github.com/Zealous666/AR_NightOps1985) - One of the first (or maybe even first) playable missions source code.
 
+## Example mods
+
+- [Official Arma Reforger Samples](https://github.com/BohemiaInteractive/Arma-Reforger-Samples) - Modding samples for Arma Reforger by BI.
+
 ## Contribute
 
 Contributions heavily encouraged! Drop me a line, open an Issue, or open a PR.
