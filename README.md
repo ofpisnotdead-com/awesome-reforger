@@ -11,7 +11,8 @@
 
 ## Server hosting
 
-- [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker.
+- [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker using `cm2network/steamcmd` image.
+- [Dockerfile example](https://gist.github.com/sigmaseven/a61a6bb0d62bec18611a74ff407bb57c) - Example scripts to run Arma Reforger dedicated server via docker using `ubuntu:18.04` image.
 
 ## Example missions
 
