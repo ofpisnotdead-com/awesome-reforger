@@ -9,6 +9,12 @@
 - [ArmAReforgerMissionMakingGuide Wiki](https://github.com/Herbiie/ArmAReforgerMissionMakingGuide/wiki/ArmA-Reforger-Mission-Making---Getting-Started) - Guide to create simple mission setup for now.
 - [UselessFodder's video exploring mission making](https://www.youtube.com/watch?v=MJimkvlGj9I) - Original video description: Arma Reforger JUST came out, but it didn't ship with something simple like the Eden / 3den editor, so we're learning the new Enfusion Engine Arma Reforger Workbench and how to make missions in Arma Reforger. This is a learning process for me, as well, so if you have any knowledge, feel free to drop it in the comments!
 
+## Terrain making
+
+- [Arma_Reforger:World_Editor](https://community.bistudio.com/wiki/Arma_Reforger:World_Editor) - Official basic guide to World Editor tool
+- [Arma_Reforger:World_Editor:_Terrain_Preparation_Tutorial](https://community.bistudio.com/wiki/Arma_Reforger:World_Editor:_Terrain_Preparation_Tutorial) - Official guide for creating a terrain
+- [The Atlas 2: Arma Reforger](https://docs.google.com/document/d/1viZSm7OquK8vhahskP0Bthy9uQufmz2PA01g1SHzFd0/edit#heading=h.53pum3epvxer) - Jakerod & community's quick notes to terrain tools
+
 ## Server hosting
 
 - [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker using `cm2network/steamcmd` image.
