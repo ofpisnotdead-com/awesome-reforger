@@ -17,6 +17,10 @@
 - [QGIS Game terrains](https://gitlab.com/Adanteh/qgis-game-terrains/-/wikis/home) - Adanteh's plugin to QGIS for grabbing source files used for virtual terrain creation,  based on real world data
 - [Th3_TerrainBuilderUtils](https://github.com/Th3Dilli/Th3_TerrainBuilderUtils) - Import and export Terrain Builder object files.
 
+## Audio editing
+
+- [Enfusion Workbench Audio Editor Tutorial](https://www.youtube.com/watch?v=pR7pm7Kw5po) - Part 1 of an audio editing guide by LAxemann.
+
 ## Server hosting
 
 - [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker using `cm2network/steamcmd` image.
