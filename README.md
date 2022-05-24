@@ -11,8 +11,15 @@
 
 ## Terrain making
 
+### Official docs
+
 - [Arma_Reforger:World_Editor](https://community.bistudio.com/wiki/Arma_Reforger:World_Editor) - Official basic guide to World Editor tool
-- [Arma_Reforger:World_Editor:_Terrain_Preparation_Tutorial](https://community.bistudio.com/wiki/Arma_Reforger:World_Editor:_Terrain_Preparation_Tutorial) - Official guide for creating a terrain
+- [Arma_Reforger:World_Editor_Tools](https://community.bistudio.com/wiki/Category:Arma_Reforger/Modding/Tools/Official_Tools/World_Editor_Tools) - Official World Editor tools documentation
+- [Arma_Reforger:World_Editor_Generators](https://community.bistudio.com/wiki/Category:Arma_Reforger/Modding/Tools/Official_Tools/World_Editor_Generators) - Official World Editor generators documentation
+- [Arma_Reforger:Terrain_Preparation_Tutorial](https://community.bistudio.com/wiki/Arma_Reforger:World_Editor:_Terrain_Preparation_Tutorial) - Official guide for creating a terrain
+
+### Community docs and tools
+
 - [The Atlas 2: Arma Reforger](https://docs.google.com/document/d/1viZSm7OquK8vhahskP0Bthy9uQufmz2PA01g1SHzFd0/edit#heading=h.53pum3epvxer) - Jakerod & community's quick notes to terrain tools
 - [QGIS Game terrains](https://gitlab.com/Adanteh/qgis-game-terrains/-/wikis/home) - Adanteh's plugin to QGIS for grabbing source files used for virtual terrain creation,  based on real world data
 - [Th3_TerrainBuilderUtils](https://github.com/Th3Dilli/Th3_TerrainBuilderUtils) - Import and export Terrain Builder object files.
