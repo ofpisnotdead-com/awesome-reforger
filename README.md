@@ -8,6 +8,7 @@
 - [Mission Toolbox](https://github.com/Miep3r/ArmAReforger-MissionToolbox) - A basic toolbox for creating ArmA Reforger Scenarios. Currently includes waypoints prefabs.
 - [ArmAReforgerMissionMakingGuide Wiki](https://github.com/Herbiie/ArmAReforgerMissionMakingGuide/wiki/ArmA-Reforger-Mission-Making---Getting-Started) - Guide to create simple mission setup for now.
 - [UselessFodder's video exploring mission making](https://www.youtube.com/watch?v=MJimkvlGj9I) - Original video description: Arma Reforger JUST came out, but it didn't ship with something simple like the Eden / 3den editor, so we're learning the new Enfusion Engine Arma Reforger Workbench and how to make missions in Arma Reforger. This is a learning process for me, as well, so if you have any knowledge, feel free to drop it in the comments!
+- [Enfusion Workbench Tutorials YouTube playlist](https://www.youtube.com/playlist?list=PLhFQ1b8sqM94_FlgXUWBNz-HUXgab6DuP) - Collection of video tutorials related to Arma Reforger mod tools and documentation.
 
 ## Terrain making
 
