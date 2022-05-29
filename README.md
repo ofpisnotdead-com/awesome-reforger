@@ -7,7 +7,8 @@
 - [Arma Reforger:Capture & Hold Setup](https://community.bistudio.com/wiki/Arma_Reforger:Capture_%26_Hold_Setup) - Official guide for simple Capture & Hold MP PvP mission using official C&H mod prefabs.
 - [Mission Toolbox](https://github.com/Miep3r/ArmAReforger-MissionToolbox) - A basic toolbox for creating ArmA Reforger Scenarios. Currently includes waypoints prefabs.
 - [ArmAReforgerMissionMakingGuide Wiki](https://github.com/Herbiie/ArmAReforgerMissionMakingGuide/wiki/ArmA-Reforger-Mission-Making---Getting-Started) - Guide to create simple mission setup for now.
-- [UselessFodder's video exploring mission making](https://www.youtube.com/watch?v=MJimkvlGj9I) - Original video description: Arma Reforger JUST came out, but it didn't ship with something simple like the Eden / 3den editor, so we're learning the new Enfusion Engine Arma Reforger Workbench and how to make missions in Arma Reforger. This is a learning process for me, as well, so if you have any knowledge, feel free to drop it in the comments!
+- [UselessFodder's complete mission guide video](https://www.youtube.com/watch?v=WNL_oFhlmLU) - Complete guide to making a custom mission in Arma Reforger.
+- [UselessFodder's exploring mission making video](https://www.youtube.com/watch?v=MJimkvlGj9I) - Original video description: Arma Reforger JUST came out, but it didn't ship with something simple like the Eden / 3den editor, so we're learning the new Enfusion Engine Arma Reforger Workbench and how to make missions in Arma Reforger. This is a learning process for me, as well, so if you have any knowledge, feel free to drop it in the comments!
 - [Enfusion Workbench Tutorials YouTube playlist](https://www.youtube.com/playlist?list=PLhFQ1b8sqM94_FlgXUWBNz-HUXgab6DuP) - Collection of video tutorials related to Arma Reforger mod tools and documentation.
 
 ## Terrain making
