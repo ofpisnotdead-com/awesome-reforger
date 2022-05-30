@@ -32,6 +32,7 @@
 
 ## Server hosting
 
+- [Dedicated server setup video guide](https://www.youtube.com/watch?v=mYp18byD-z0) - How to set up a dedicated server for arma reforger using both built in scenarios and any custom scenarios you create or download by [SneakyAzWhat](https://www.youtube.com/c/SneakyAzWhat).
 - [Docker image](https://github.com/acemod/docker-reforger) - Docker image maintained by the ACE mod team.
 - [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker using `cm2network/steamcmd` image.
 - [Dockerfile example](https://gist.github.com/sigmaseven/a61a6bb0d62bec18611a74ff407bb57c) - Example scripts to run Arma Reforger dedicated server via docker using `ubuntu:18.04` image.
