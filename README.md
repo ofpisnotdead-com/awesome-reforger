@@ -36,6 +36,7 @@
 
 ## Server hosting
 
+- [Rotating mission script for Windows/Linux](https://gist.github.com/simi/f623553c499dbb7bcd28d1756b805cae) - Ideas shared on Discord with simple scripts (for PowerShell and Bash) to rotate mission by Udo and Marko.
 - [Dedicated server setup video guide](https://www.youtube.com/watch?v=mYp18byD-z0) - How to set up a dedicated server for arma reforger using both built in scenarios and any custom scenarios you create or download by [SneakyAzWhat](https://www.youtube.com/c/SneakyAzWhat).
 - [Docker image](https://github.com/acemod/docker-reforger) - Docker image maintained by the ACE mod team.
 - [Dockerfile example](https://gitlab.com/squadpublic/armareforger_docker) - Example scripts to run Arma Reforger dedicated server via docker using `cm2network/steamcmd` image.
