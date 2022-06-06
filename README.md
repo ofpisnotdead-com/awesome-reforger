@@ -11,6 +11,10 @@
 - [UselessFodder's exploring mission making video](https://www.youtube.com/watch?v=MJimkvlGj9I) - Original video description: Arma Reforger JUST came out, but it didn't ship with something simple like the Eden / 3den editor, so we're learning the new Enfusion Engine Arma Reforger Workbench and how to make missions in Arma Reforger. This is a learning process for me, as well, so if you have any knowledge, feel free to drop it in the comments!
 - [Enfusion Workbench Tutorials YouTube playlist](https://www.youtube.com/playlist?list=PLhFQ1b8sqM94_FlgXUWBNz-HUXgab6DuP) - Collection of video tutorials related to Arma Reforger mod tools and documentation.
 
+## Addon making
+
+- [TeTeT's Unsung M35 truck conversion notes](https://tetet.de/arma/reforger/Converting%20the%20Unsung%20M35%20truck.pdf) - Nice initial notes of porting A3 vehicle into Reforger.
+
 ## Terrain making
 
 ### Official docs
