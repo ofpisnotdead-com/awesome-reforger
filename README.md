@@ -4,6 +4,7 @@
 
 ## Mission making
 
+- [NightOps - Arma Platform Modding Project](https://nightops.de/arma-reforger-basic-mission-guide/) - Super friendly guide to setup custom Arma Reforger mission. Check the rest of the website, there is a ton of useful stuff. 💪
 - [Arma Reforger:Capture & Hold Setup](https://community.bistudio.com/wiki/Arma_Reforger:Capture_%26_Hold_Setup) - Official guide for simple Capture & Hold MP PvP mission using official C&H mod prefabs.
 - [Mission Toolbox](https://github.com/Miep3r/ArmAReforger-MissionToolbox) - A basic toolbox for creating ArmA Reforger Scenarios. Currently includes waypoints prefabs.
 - [ArmAReforgerMissionMakingGuide Wiki](https://github.com/Herbiie/ArmAReforgerMissionMakingGuide/wiki/ArmA-Reforger-Mission-Making---Getting-Started) - Guide to create simple mission setup for now.
